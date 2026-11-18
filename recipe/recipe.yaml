@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.2"
+  version: "0.3.0"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/t/torux/torux-${{ version }}.tar.gz
-  sha256: 62ed90c8fd8ed1cfc58b7a653f0bc0f7b76353bd80a561a0e9668c99573fd39f
+  sha256: db577fa6bd85cc50e047c8974b2ee4990d2eaf9d8f59e7aa62aafc0a51020da2
 
 build:
   number: 0
